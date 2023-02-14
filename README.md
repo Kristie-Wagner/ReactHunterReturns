@@ -63,6 +63,6 @@ HealthNote:
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 4%</STYL>", "ratio":0.04},
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 3%</STYL>", "ratio":0.03},
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 2%</STYL>", "ratio":0.02},
-	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 1%</STYL>", "ratio":0.01},
+	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 1%</STYL>", "ratio":0.01}
 	]
 	}
