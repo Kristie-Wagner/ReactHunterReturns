@@ -31,7 +31,7 @@ In VS 2019, go back to the dropdown in the previous step and open the Configurat
 
 ## 8. Run
 Hit "Run" in the top toolbar (VS 2019 may prompt to restart as admin, accept and hit "Run" again after the restart) and wait for VS to finish building the project. If the React Hunter console window complains about anything (e.g. pattern scanning failing) you most likely didn't complete step 4 properly.
-
+```
 HealthNote:
 {
 	"messages": [
@@ -39,18 +39,18 @@ HealthNote:
 	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 90%</STYL>", "ratio":0.90},
 	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 85%</STYL>", "ratio":0.85},
 	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 80%</STYL>", "ratio":0.80},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 75%</STYL>", "ratio":0.75},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 70%</STYL>", "ratio":0.70},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 65%</STYL>", "ratio":0.65},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 60%</STYL>", "ratio":0.60},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 55%</STYL>", "ratio":0.55},
-	{"msg": "<STYL MOJI_GREEN_DEFAULT>怪物剩余血量: 50%</STYL>", "ratio":0.50},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 45%</STYL>", "ratio":0.45},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 40%</STYL>", "ratio":0.40},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 35%</STYL>", "ratio":0.35},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 30%</STYL>", "ratio":0.30},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 25%</STYL>", "ratio":0.25},
-	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 20%</STYL>", "ratio":0.20},
+	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 75%</STYL>", "ratio":0.75},
+	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 70%</STYL>", "ratio":0.70},
+	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 65%</STYL>", "ratio":0.65},
+	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 60%</STYL>", "ratio":0.60},
+	{"msg": "<STYL MOJI_YELLOW_DEFAULT>怪物剩余血量: 55%</STYL>", "ratio":0.55},
+	{"msg": "<STYL MOJI_ORANGE_DEFAULT>怪物剩余血量: 50%</STYL>", "ratio":0.50},
+	{"msg": "<STYL MOJI_ORANGE_DEFAULT>怪物剩余血量: 45%</STYL>", "ratio":0.45},
+	{"msg": "<STYL MOJI_ORANGE_DEFAULT>怪物剩余血量: 40%</STYL>", "ratio":0.40},
+	{"msg": "<STYL MOJI_ORANGE_DEFAULT>怪物剩余血量: 35%</STYL>", "ratio":0.35},
+	{"msg": "<STYL MOJI_ORANGE_DEFAULT>怪物剩余血量: 30%</STYL>", "ratio":0.30},
+	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 25%</STYL>", "ratio":0.25},
+	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 20%</STYL>", "ratio":0.20},
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 17.5%</STYL>", "ratio":0.175},
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 15%</STYL>", "ratio":0.15},
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 12.5%</STYL>", "ratio":0.125},
@@ -66,3 +66,5 @@ HealthNote:
 	{"msg": "<STYL MOJI_RED_DEFAULT>怪物剩余血量: 1%</STYL>", "ratio":0.01}
 	]
 	}
+```
+
